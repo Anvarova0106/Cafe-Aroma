@@ -1,0 +1,163 @@
+{
+  "products": [
+    {
+      "name": "Cappuccino",
+      "description": "Klassik cappuccino, espresso, issiq sut va sut ko'pigi bilan tayyorlanadi.",
+      "price": 35000,
+      "imageUrl": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=400",
+      "category": "Coffee",
+      "sizes": ["S", "M", "L"],
+      "addons": [
+        {"name": "Shakar", "price": 2000},
+        {"name": "Vanil siropi", "price": 5000},
+        {"name": "Karamel siropi", "price": 5000}
+      ],
+      "rating": 4.8,
+      "reviewCount": 245
+    },
+    {
+      "name": "Americano",
+      "description": "Yangi va tetiklantiruvchi, kuchli espresso asosida.",
+      "price": 25000,
+      "imageUrl": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=400",
+      "category": "Coffee",
+      "sizes": ["S", "M", "L"],
+      "addons": [
+        {"name": "Shakar", "price": 2000},
+        {"name": "Sut", "price": 3000}
+      ],
+      "rating": 4.6,
+      "reviewCount": 189
+    },
+    {
+      "name": "Latte",
+      "description": "Yumshoq va kremli, sut ko'pigi bilan bezatilgan.",
+      "price": 38000,
+      "imageUrl": "https://images.unsplash.com/photo-1561047029-3000c68339ca?w=400",
+      "category": "Coffee",
+      "sizes": ["S", "M", "L"],
+      "addons": [
+        {"name": "Vanil siropi", "price": 5000},
+        {"name": "Karamel siropi", "price": 5000},
+        {"name": "Shokolad siropi", "price": 5000}
+      ],
+      "rating": 4.9,
+      "reviewCount": 312
+    },
+    {
+      "name": "Espresso",
+      "description": "Kuchli va to'yimli, klassik italyan qahvasi.",
+      "price": 20000,
+      "imageUrl": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=400",
+      "category": "Coffee",
+      "sizes": ["S", "M"],
+      "addons": [
+        {"name": "Shakar", "price": 2000}
+      ],
+      "rating": 4.7,
+      "reviewCount": 167
+    },
+    {
+      "name": "Cheesecake",
+      "description": "Yumshoq va mazali desert, toza tvorog asosida.",
+      "price": 45000,
+      "imageUrl": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?w=400",
+      "category": "Desert",
+      "sizes": [],
+      "addons": [],
+      "rating": 4.7,
+      "reviewCount": 156
+    },
+    {
+      "name": "Croissant",
+      "description": "Yangi pishgan, sariyog'li va qatlamli.",
+      "price": 25000,
+      "imageUrl": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=400",
+      "category": "Nonushta",
+      "sizes": [],
+      "addons": [
+        {"name": "Sariyog'", "price": 2000},
+        {"name": "Murabbo", "price": 3000}
+      ],
+      "rating": 4.5,
+      "reviewCount": 98
+    },
+    {
+      "name": "Matcha Latte",
+      "description": "Yapon yashil choy va sut asosida tayyorlangan.",
+      "price": 42000,
+      "imageUrl": "https://images.unsplash.com/photo-1515823662972-da6a2e4d3002?w=400",
+      "category": "Ichimlik",
+      "sizes": ["S", "M", "L"],
+      "addons": [
+        {"name": "Shakar", "price": 2000},
+        {"name": "Vanil siropi", "price": 5000}
+      ],
+      "rating": 4.8,
+      "reviewCount": 203
+    },
+    {
+      "name": "Tiramisu",
+      "description": "Italyan klassik deserti, qahva va mascarpone bilan.",
+      "price": 55000,
+      "imageUrl": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?w=400",
+      "category": "Desert",
+      "sizes": [],
+      "addons": [],
+      "rating": 4.9,
+      "reviewCount": 178
+    },
+    {
+      "name": "Avocado Toast",
+      "description": "Yangi avokado, tuxum va pomidor bilan.",
+      "price": 48000,
+      "imageUrl": "https://images.unsplash.com/photo-1541519227354-08fa5d50c820?w=400",
+      "category": "Nonushta",
+      "sizes": [],
+      "addons": [
+        {"name": "Qo'shimcha tuxum", "price": 8000},
+        {"name": "Losos", "price": 15000}
+      ],
+      "rating": 4.6,
+      "reviewCount": 134
+    },
+    {
+      "name": "Pancakes",
+      "description": "Yumshoq pancake, asal va mevalar bilan.",
+      "price": 35000,
+      "imageUrl": "https://images.unsplash.com/photo-1567620905732-2d1ec7ab7445?w=400",
+      "category": "Nonushta",
+      "sizes": [],
+      "addons": [
+        {"name": "Shokolad siropi", "price": 5000},
+        {"name": "Qulupnay", "price": 8000}
+      ],
+      "rating": 4.8,
+      "reviewCount": 221
+    },
+    {
+      "name": "Fresh Orange Juice",
+      "description": "Yangi siqilgan apelsin sharbati.",
+      "price": 18000,
+      "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=400",
+      "category": "Ichimlik",
+      "sizes": ["M", "L"],
+      "addons": [],
+      "rating": 4.5,
+      "reviewCount": 89
+    },
+    {
+      "name": "Brownie",
+      "description": "Shokoladli brownie, yong'oq bilan.",
+      "price": 32000,
+      "imageUrl": "https://images.unsplash.com/photo-1607920591413-4ec007e70023?w=400",
+      "category": "Desert",
+      "sizes": [],
+      "addons": [
+        {"name": "Muzqaymoq", "price": 8000}
+      ],
+      "rating": 4.7,
+      "reviewCount": 143
+    }
+  ]
+}
